@@ -153,7 +153,7 @@ paths:
       deprecated: false
       security:
       - bearer: []
-  /jobs/63abf544cb1830cbaadd40ce:
+
     delete:
       tags:
       - Jobs
